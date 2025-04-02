@@ -2,7 +2,7 @@
 
 <Hotels xmlns="https://iamuncatchable.github.io/CSE445_Assignment4/Hotels.xsd"
         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-        xsi:schemaLocation="https://iamuncatchable.github.io/CSE445_Assignment4/Hotels.xsd>
+        xsi:schemaLocation="https://iamuncatchable.github.io/CSE445_Assignment4/Hotels.xsd https://iamuncatchable.github.io/CSE445_Assignment4/Hotels.xsd">
     <Hotel Rating="4.4">
         <Name>Kaimana Beach Hotel</Name>
         <Phone>808-923-1555</Phone>
