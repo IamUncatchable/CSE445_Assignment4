@@ -55,7 +55,7 @@
             <City>Tempe</City>
             <State>AZ</State>
             <Zip>85283</Zip>
-        
+        </Address>
     </Hotel>
     <Hotel Rating="4.4">
         <Name>Disney's All-Star Movies Resort</Name>
@@ -110,6 +110,6 @@
             <City>Mesa</City>
             <State>AZ</State>
             <Zip>85201</Zip>
-        </Address>
+       
     </Hotel>
 </Hotels>
