@@ -4,7 +4,7 @@
     <Hotel Rating="4.4">
         <Name>Kaimana Beach Hotel</Name>
         <Phone>808-923-1555</Phone>
-        <Address NearstAirport="Daniel K. Inouye International Airport">
+        <Address NearestAirport="Daniel K. Inouye International Airport">
             <Number>2863</Number>
             <Street>Kalakaua Ave</Street>
             <City>Honolulu</City>
@@ -26,7 +26,7 @@
     </Hotel>
     <Hotel>
         <Name>Hilton Phoenix Resort at the Peak</Name>
-        <Address NearstAirport="Sky Harbor">
+        <Address NearestAirport="Sky Harbor">
             <Number>7677</Number>
             <Street>N 16th St</Street>
             <City>Phoenix</City>
@@ -38,7 +38,7 @@
         <Name>Sonesta Simply Suites Phoenix Tempe</Name>
         <Name>This Hotel Has 2 Names</Name>
         <Phone>480-777-0440</Phone>
-        <Address NearstAirport="Sky Harbor">
+        <Address NearestAirport="Sky Harbor">
             <Number>1335</Number>
             <Street>W Baseline Rd</Street>
             <City>Tempe</City>
@@ -49,7 +49,7 @@
     <Hotel Rating="4.3">
         <Name>Holiday Inn Express</Name>
         <Phone>480-831-9800</Phone>
-        <Address NearstAirport="Sky Harbor">
+        <Address NearestAirport="Sky Harbor">
             <Number>1520</Number>
             <Street>W Baseline Rd</Street>
             <City>Tempe</City>
@@ -60,7 +60,7 @@
     <Hotel Rating="4.4">
         <Name>Disney's All-Star Movies Resort</Name>
         <Phone>407-939-5277</Phone>
-        <Address NearstAirport="Orlando International Airport">
+        <Address NearestAirport="Orlando International Airport">
             <Number>1901</Number>
             <Street>W Buena Vista Dr</Street>
             <City>Lake Buena Vista</City>
@@ -71,7 +71,7 @@
     <Hotel>
         <Name>The Azure Hotel</Name>
         <Phone>480-621-6375</Phone>
-        <Address NearstAirport="Sky Harbor">
+        <Address NearestAirport="Sky Harbor">
             <Number>651</Number>
             <Street>E Main St</Street>
             <City>Mesa</City>
@@ -82,7 +82,7 @@
     <Hotel>
         <Name>Sheraton Mesa Hotel at Wrigleyville West</Name>
         <Phone>480-664-1221</Phone>
-        <Address NearstAirport="Sky Harbor">
+        <Address NearestAirport="Sky Harbor">
             <Number>860</Number>
             <Street>N Riverview</Street>
             <City>Mesa</City>
@@ -93,7 +93,7 @@
     <Hotel Rating="4.3">
         <Name>DoubleTree by Hilton Phoenix Mesa</Name>
         <Phone>480-833-5555</Phone>
-        <Address NearstAirport="Sky Harbor">
+        <Address NearestAirport="Sky Harbor">
             <Number>1011</Number>
             <Street>W Holmes Ave</Street>
             <City>Mesa</City>
@@ -104,7 +104,7 @@
     <Hotel>
         <Name>Courtyard Mesa at Wrigleyville West</Name>
         <Phone>480-590-8000</Phone>
-        <Address NearstAirport="Sky Harbor">
+        <Address NearestAirport="Sky Harbor">
             <Number>2224</Number>
             <Street>W Rio Salado Rkwy</Street>
             <City>Mesa</City>
